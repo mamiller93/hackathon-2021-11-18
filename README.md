@@ -1,4 +1,7 @@
-# hackathon-express-ember
+# Hackathon for Census
+
+## Note:
+This does not have the entire codebase as this was a fork of the initial commit. Additions were added in a private repository. 
 
 ## To run backend:
 * `cd hackathon-backend`
