@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "lifeart.vscode-ember-unstable",
+    "candidmetrics.ember-module-snippets",
+    "candidmetrics.ember-decorator-snippets",
+    "lifeart.vscode-glimmer-syntax",
+    "andrejunges.handlebars"
+  ]
+}
